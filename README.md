@@ -1,29 +1,75 @@
-# tributee
+# Tributee
 
-This template should help get you started developing with Vue 3 in Vite.
+Tributee is a modern web application built with Vue 3 and Vite, designed to help users create and share meaningful tributes and memories. This platform provides an elegant and user-friendly interface for commemorating special moments and honoring important people in our lives.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Modern, responsive user interface
+- Fast and efficient performance
+- Easy-to-use tribute creation system
+- Secure and reliable data management
+- Cross-platform compatibility
 
-## Customize configuration
+## Technology Stack
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Vue 3 - Progressive JavaScript framework
+- Vite - Next Generation Frontend Tooling
+- Modern JavaScript (ES6+)
+- Responsive Design
 
-## Project Setup
+## Getting Started
 
+### Prerequisites
+
+- Node.js (version 14.0 or higher)
+- npm (comes with Node.js)
+
+### Installation
+
+1. Clone the repository:
+```sh
+git clone https://github.com/yourusername/tributee.git
+cd tributee
+```
+
+2. Install dependencies:
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Development
 
+To start the development server with hot-reload:
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Production Build
 
+To create a production-ready build:
 ```sh
 npm run build
 ```
+
+## Development Setup
+
+### Recommended IDE
+
+- [VSCode](https://code.visualstudio.com/) with [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) extension
+  - Note: Disable Vetur if installed to avoid conflicts
+
+### Configuration
+
+For detailed configuration options, refer to the [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Contributing
+
+We welcome contributions! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Support
+
+For support, please open an issue in the GitHub repository or contact the development team.
